@@ -7,18 +7,9 @@
 let handler = async (m, { conn }) => {
 bear = "Source Code"
 let esce = `
-BIG THANKS TO
+BIG THANK TO !!!
 
-⤿ Nurutomo
-    📮 https://github.com/Nurutomo
-⤿ Elyas
-    📮 https://github.com/Paquito1923
-⤿ Hyzer Official
-    📮 https://github.com/Hyzerr
-⤿ Krizyn Ofc
-    📮 https://github.com/krizynofc
-    
-THANKS PARA DONASI YANG TERHORMAT
+www.hentai.com
 `
 conn.sendButtonImg(m.chat, fla + 'Thanks To', esce, wm2, 'Menu', '.menu', m) 
 }
