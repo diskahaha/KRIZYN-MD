@@ -1,43 +1,42 @@
 //=============『 Utama 』================== //
-global.owner = ['62895327934887'] 
+global.owner = ['6281285578808'] 
 global.mods = [] 
 global.prems = [] 
 
 //=============『 Info Owner 』============== //
 global.nameowner = 'Krizyn Ofc'
-global.numberowner = '62895327934887'
-global.instagram = 'https://instagram.com/mhdfakri_'
-global.github = 'https://github.com/krizynofc'
-global.dana = '081360482998'
-global.pulsa = '081360482998'
-global.gopay = '081360482998'
+global.numberowner = '6281285578808'
+global.instagram = 'https://instagram.com/f'
+global.github = 'https://github.com/f'
+global.dana = '081285578808'
+global.pulsa = '081285578808'
+global.gopay = '081285578808'
 
 //=============『 Info Bot 』=================//
-global.namebot = 'Krizyn-MD'
-global.gc = 'https://chat.whatsapp.com/Jzd9DEVB5nODtNBk1VCNrV'
-global.web = 'https://lynk.id/kri.com' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
-global.price1 = 'NIH KAK LIST SEWA NYA\n\n》1 MINGGU Rp 10.000\nMAKSIMAL 1 GRUP\n》1 BULAN  Rp 15.000\nMAKSIMAL 1 GRUP \n》3 BULAN Rp 20.000\nMAKSIMAL 1 GRUP + PREMIUM\n》PERMANEN Rp 30.000\nMAKSIMAL 3 GRUP\n》4 BULAN  Rp 25.000\nMAKSIMAL 2 GRUP + PREMIUM\n\nMAU NAMBAH GRUP LAGI \nPERMANEN Rp 25.000\nMAKSIMAL 2 GRUP'
-
+global.namebot = '𝕭𝖔𝖙 • Andii ༢࿔ྀ'
+global.gc = 'https://chat.whatsapp.com/Jpm8TqhtU2b1EUz55iXRyx'
+global.web = 'https://hentai.com' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
+global.price1 = 'Ga Butuh Pulsa Gua Bwang'
 //=======『 Tampilan Dan Lainnya 』============//
 global.fotonya1 = 'https://telegra.ph/file/04dbaf876a5639829e46a.jpg' //ganti jadi foto bot mu
 global.fotonya2 = 'https://telegra.ph/file/04dbaf876a5639829e46a.jpg' //ini juga ganti 
 global.lolkey = 'Papah-Chan' //biar mudah ngegantinya semisal apikeynya expired:v
 global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
-global.wm = '↻𝙺𝚁𝙸𝚉𝚈𝙽 𝙱𝙾𝚃 𝚆𝙷𝙰𝚃𝚂𝙰𝙿𝙿 𝙼𝙳'
+global.wm = '↻𝕭𝖔𝖙 • Andii ༢࿔ྀ'
 global.watermark = wm
-global.wm2 = ' ⊙────────❲ ᯤ ᴋʀɪᴢʏɴ ᴏꜰᴄ ❳'
-global.wm3 = 'ᯤ ᴋʀɪᴢʏɴ ᴏꜰᴄ'
+global.wm2 = ' ⊙────────❲ ᯤ 𝕭𝖔𝖙 • Andii ༢࿔ྀ ❳'
+global.wm3 = 'ᯤ 𝕭𝖔𝖙 • Andii ༢࿔ྀ'
 global.htki = '––––––『' 
 global.htka = '』––––––'
 global.media = 'https://telegra.ph/file/72168c6f1aaa90315c369.jpg'
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=smurfs-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
-global.wait = '⏳Tunggu Sedang Proses...'
+global.wait = '⏳ Sabar Lah Kmtd 🤧...'
 global.eror = '_*🚨 Server Bot Sedang Error*_'
 global.benar = 'Benar ✅\n'
 global.salah = 'Salah ❌\n'
-global.stiker_wait = '⏳ Stiker sedang Proses'
-global.packname = 'Krizyn Ofc'
-global.author = '@mhdfakri_'
+global.stiker_wait = '⏳ Sabar Lah Kmtd 🤧...'
+global.packname = '𝕭𝖔𝖙 • Andii ༢࿔ྀ'
+global.author = '@𝕭𝖔𝖙 • Andii ༢࿔ྀ'
 
 //=============『 Apikey 』================== //
 global.APIs = { // API Prefix
