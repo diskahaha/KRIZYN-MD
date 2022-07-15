@@ -5,7 +5,7 @@ let handler = async (m, { conn }) => {
 m.reply(`
 ⊙──❲ R U N T I M E 〕
 │ 
-├⊙ Krizyn Aktif Selama ${uptime}
+├⊙ 𝕭𝖔𝖙 • Andii ༢࿔ྀ  Aktif Selama ${uptime}
 │
 ⊙──────
     `)
