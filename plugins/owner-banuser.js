@@ -6,7 +6,7 @@ let handler = async (m, { conn, text }) => {
     if (!who) throw 'Tag salah satu lah'
     let users = global.db.data.users
     users[who].banned = true
-    conn.reply(m.chat, `Berhasil Banned User`, m)
+    conn.reply(m.chat, `Yahaha, Si Kmtd Telah Terbaned !!! User`, m)
 }
 handler.help = ['ban']
 handler.tags = ['owner']
